@@ -1,8 +1,5 @@
 public class TestInterface {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) 
     {Speaker obj= new Politician();
         obj.speak();
