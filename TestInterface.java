@@ -5,8 +5,8 @@ public class TestInterface {
         obj.speak();
      Speaker obj2=new Priest();
       obj.speak();
-         Speaker l=new Lecturer()
-      l.speak();
+         Speaker kri=new Lecturer()
+      kri.speak();
       Works L=new Lecturer()
       L.work();
     }
