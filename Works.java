@@ -1,3 +1,5 @@
 public interface Works {
- public void work()  
+ public void work()
+  // interface
+  
 }
