@@ -8,9 +8,9 @@ public class TestInterface {
         p.speak();
      Speaker pr=new Priest();
       pr.speak();
-         Speaker l=new Lecturer()
+         Speaker l=new Lecturer();
       l.speak();
-      Works L=new Lecturer()
+      Works L=new Lecturer();
       L.work();
     }
     
